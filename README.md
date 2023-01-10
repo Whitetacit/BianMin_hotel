@@ -3,7 +3,7 @@
 
 *This is a page to promote a building which in a minecraft server*
 
-#本次更新内容
+##本次更新内容
 - 增添更多床位，方便旅客休息
 - 增添异域风情植物，供旅客观赏
 - 增添了公用浴场
