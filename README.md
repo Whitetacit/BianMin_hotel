@@ -1,4 +1,4 @@
-# **欢迎来到便民旅馆2.0**
+# **欢迎来到便民旅馆**
 *这是一个宣传Minecraft服务器建筑的网页*
 
 *This is a page to promote a building which in a minecraft server*
